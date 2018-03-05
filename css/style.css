@@ -1,5 +1,11 @@
 body{
     margin:0;
-   background-image: url("Media/massive.jpg");
-    background-size: 1500px 843px;
+   background-image: url("../Media/massive.gif");
+    background-size: 960px 960px;
+}
+
+div{
+    background-color:	gray;
+    margin: 6% 18% 8% 21%;
+    padding: 4% 4% 4% 4%;
 }
