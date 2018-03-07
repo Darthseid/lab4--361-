@@ -1,7 +1,8 @@
 body{
     margin:0;
    background-image: url("../Media/Vacuum.jpg");
-    background-size: 960px 960px;
+    background-size: 960px 960px
+    background-repeat:no-repeat
 }
 
 div{
@@ -34,3 +35,4 @@ text-align: right;
 border-bottom: 2px solid #333;
 text-align: center;
 }
+
