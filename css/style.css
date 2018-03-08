@@ -30,6 +30,26 @@ th, td
 img
 {
   
-height: 20%;
-width: 20%;
+height: 17%;
+width: 17%;
+}
+
+.saturn
+{
+float: left;
+}
+
+.neptune
+{
+	float:right;
+}
+
+.uranus
+{
+	margin: 4px;
+}
+
+.pluto
+{
+	padding: 2px;
 }
