@@ -36,3 +36,9 @@ border-bottom: 2px solid #333;
 text-align: center;
 }
 
+img {
+		width:100px;
+		height:100px;
+		padding:30px;
+		border:40px;
+}
